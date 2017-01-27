@@ -1,0 +1,6 @@
+#include <sudo.h>
+
+main ()
+{
+  printf("hello, world!")
+}
